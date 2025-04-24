@@ -1,0 +1,7 @@
+key_bindings:
+  - { key: C, mods: Alt, action: Copy }
+  - { key: V, mods: Alt, action: Paste }
+
+selection:
+  clipboard: true
+
